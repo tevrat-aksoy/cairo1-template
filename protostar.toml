@@ -1,0 +1,7 @@
+[project]
+protostar-version = "0.12.0"
+
+[contracts]
+
+contract_factory = ["factory/src"]
+contract_ownable = ["ownable/src"]
